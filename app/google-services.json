@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592955150673",
+    "firebase_url": "https://i-pick-you-up-app.firebaseio.com",
+    "project_id": "i-pick-you-up-app",
+    "storage_bucket": "i-pick-you-up-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592955150673:android:7266d5a3e6b5d7dcd58370",
+        "android_client_info": {
+          "package_name": "com.example.i_pick_you_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592955150673-ev32umh0c7u9frkfnaesfhkmu3pee4gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.i_pick_you_up",
+            "certificate_hash": "b3850c60e51f772f6ba7a371e06702d0a6946468"
+          }
+        },
+        {
+          "client_id": "592955150673-hctnfd1618p6ehg4nefbls6r2vccl7m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb0vrgxU8AJvVPgjGcx83-_widj5LV9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592955150673-hctnfd1618p6ehg4nefbls6r2vccl7m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
